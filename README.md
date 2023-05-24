@@ -18,7 +18,7 @@ Stand-alone maken (dus zonder computer) is beetje gedoe. Sla bestand op als main
 
 rshell --buffer-size=30 -p /dev/tty.usbmodem21301
 
-(usbmodemxxxxx naam kan iets afwijken).
+N.b.: usbmodemxxxxx naam kan iets afwijken.
 
 Daarna:
 
