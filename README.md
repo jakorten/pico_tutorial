@@ -1,8 +1,7 @@
-# pico_tutorial
+# PiCo Bibberdraad Workshop
+
 Tutorial for Raspberry Pi Pico 2040 workshops.
-
 Workshop is (for now) only available in Dutch.
-
 
 
 Tips:
