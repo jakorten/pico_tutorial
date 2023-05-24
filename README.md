@@ -21,5 +21,7 @@ rshell --buffer-size=30 -p /dev/tty.usbmodem21301
 (usbmodemxxxxx naam kan iets afwijken).
 
 Daarna:
+
 cp main.py /pyboard/
-vanaf de folder waar je main.py bestand staat in dit geval.
+
+Doe dit vanaf de folder waar je main.py bestand staat.
