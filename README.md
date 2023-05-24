@@ -11,3 +11,4 @@ Tips:
 - Aluminium (meer soepel) en gegalvaniseerd (stugger) draad geleid goed. Die kleurtjes van het aluminium draad zijn leuk maar geleiden niet dus moeten eerst geschuurd worden, blank draad werkt op zich beter / levert minder werk op.
 - Om ene paaltje heen zit zelfklevend kopertape, daar soldeer je de 'eindsensordraad' aan vast, wel uitkijken dat de PLA (3D print plastic) niet smelt.
 - Er waren vier bordjes die niet correct werkten (waren toevallig afwijkend), die waren normally closed ipv normally open, "return nieuwSpelKnopPin.value() == 0" moest "return nieuwSpelKnopPin.value() == 1" worden en toen deed ie het ook voor die leerlingen, leerzaam weer met name voor de leerlingen.
+- Leerlingen hadden twee verbeteringen: batterijhouder vertikaal erop lijmen met hot glue én de nieuwe-spel-knop aan zijkant van bordje, dat maakt het geheel meer robuust. Zorg wel dat de USB vrij blijft voor eventueel herprogrammeren.
