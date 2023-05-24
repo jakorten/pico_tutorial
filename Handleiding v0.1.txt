@@ -1,0 +1,11 @@
+
+
+
+Om het spel/bordje autonoom te laten werken (dus zonder computer):
+
+https://forums.raspberrypi.com/viewtopic.php?t=301927
+
+Tips onder Windows:
+https://picockpit.com/raspberry-pi/raspberry-pi-pico-and-micropython-on-windows/
+
+https://forums.raspberrypi.com/viewtopic.php?t=327711
